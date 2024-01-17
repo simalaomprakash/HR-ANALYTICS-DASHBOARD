@@ -60,7 +60,7 @@ Legends and interactive filters for in-depth data exploration.
 6. Education Field-wise Attrition (Vertical Bar Graph).
 7. Education Field-wise Attrition (Donut Plot).
 
-# Dashboard
+# Dashboard:
 ![HR Analytics dashboard](https://github.com/simalaomprakash/HR-ANALYTICS-DASHBOARD/assets/156334076/b91a0bf8-cae8-4997-8c30-d56a1bac3d88)
 
 # 📈 Dashboard Overview:
