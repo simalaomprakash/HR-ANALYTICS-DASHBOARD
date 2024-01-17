@@ -1,0 +1,25 @@
+🏢 Department
+1. Which department has the highest attrition rate?
+2. Which department has the lowest attrition rate?
+Ans:The R&D department has the highest attrition rate at 22.34%, 
+while the Finance department has the lowest at 9.87%.
+
+👥 Age Group
+1. Which age group has the highest attrition rate?
+2. Which age group has the lowest attrition rate?
+Ans:The 45-54 age group has the highest attrition rate at 20.12%, 
+while the 25-34 age group has the lowest at 15.42%.
+
+👫 Gender
+1. Which gender has the higher attrition rate?
+Ans:Women have a slightly higher attrition rate than men, at 18.05% compared to 17.28%.
+
+📚 Degree
+1. Do employees with technical degrees have a different attrition rate?
+Ans:Employees with technical degrees have a slightly higher attrition rate than those with non-technical degrees.
+
+😊 Job Satisfaction
+1. Is there a correlation between job satisfaction and attrition rate?
+Ans:The correlation between job satisfaction and attrition rate is -0.333. 
+This means that there is a weak negative correlation between the two variables. 
+In other words, as job satisfaction increases, attrition rate tends to decrease, and vice versa.
